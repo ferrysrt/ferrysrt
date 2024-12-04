@@ -1,9 +1,9 @@
 ## Hi there 👋
-I'm a new Programmer
-![ferrysrt's Stats](https://github-readme-stats.vercel.app/api?username=ferrysrt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![ferrysrt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferrysrt&theme=vue-dark&hide_border=true)
-![ferrysrt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrysrt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-<!--
+I'm a new Programmer.
+![ferrysrt's Stats](https://github-readme-stats.vercel.app/api?username=ferrysrt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true).
+![ferrysrt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferrysrt&theme=vue-dark&hide_border=true).
+![ferrysrt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrysrt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact).
+<!--.
 **ferrysrt/ferrysrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
