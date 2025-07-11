@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a new Programmer.
+I'm a new Programmer, Gen AI enthusiast && Machine Learning Data Scientist.
 - ![ferrysrt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrysrt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact).
 
 <!-- - ![ferrysrt's Stats](https://github-readme-stats.vercel.app/api?username=ferrysrt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true).
