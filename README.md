@@ -27,7 +27,7 @@
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferrysrt" alt="ferrysrt" /></a> </p> --->
 
-- 🌱 I’m currently learning **Docker, Cursor, Cline, n8n**
+- 🌱 I’m currently learning **Docker, Cursor, Cline**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
